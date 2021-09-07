@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $('.carousel-img').slick({
         autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 1500,
         arrows: false,
         dots: true,
         fade: true,
