@@ -1,1 +1,0 @@
-# harumihbino.github.io
